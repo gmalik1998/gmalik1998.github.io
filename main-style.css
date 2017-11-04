@@ -1,0 +1,44 @@
+body {
+    display: block;
+    width: 84%;
+    height: 100%;
+    background-color: green;
+    margin-left: 8%;
+    margin-right: 8%;
+    position: relative;
+}
+
+.contacts {
+    display: block;
+    position: absolute;
+    right: 0%;   
+    width: 18%;
+    top: 30%;
+    background-color: grey;
+    border-radius: 7.5%;
+    text-align: center;
+}
+
+.experience {
+    display: block;
+    position: absolute;  
+    width: 82%;
+    background-color: red;
+    border-radius: 7.5%;
+    text-align: center;
+}
+
+.about {
+    display: block;
+    position: absolute;   
+    width: 82%;
+    height: 40%;
+    top: 15%;
+    background-color: yellow;
+    border-radius: 7.5%;
+}
+
+#link-to-TG {
+    text-decoration: none;
+    font-size: 20px;
+}
